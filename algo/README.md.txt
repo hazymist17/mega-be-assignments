@@ -9,4 +9,7 @@ First, if don't have 'math' please install this pip
 3.Input target of word with just 4 consonants.
 4.output will detect each word and return 2 words (not necessarily distinct) that combined (concatenated) to the target word. (Any pair is fine if multiple solutions exist)
 
+Explanation
+the code will detect same word in wordlists and target word and then add on list of output.
+
 End
